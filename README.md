@@ -1,0 +1,1 @@
+A bash script that analyzes the email addresses in a set of text documents. The script finds out 1) the email addresses that appear the most times in the documents and their numbers of occurrence, and 2) a complete list of emails with the same domains.
